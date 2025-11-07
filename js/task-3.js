@@ -1,0 +1,1 @@
+function filterArray(numbers, value) {}
